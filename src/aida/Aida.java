@@ -1,6 +1,12 @@
 package aida;
 import java.util.Scanner;
 public class Aida {
+	/**
+	 * El programa muestra una frase.
+	 * @author ciclesgs
+	 * @version
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		//El programa muestra una frase.
 		Scanner scanner = new Scanner(System.in);
